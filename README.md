@@ -1,3 +1,3 @@
-# Curso de web-scrapping free code camp
+# Curso de web-scrapping
 
 Doing a course about beautiful soup
