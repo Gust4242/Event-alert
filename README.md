@@ -1,4 +1,4 @@
-# Curso de web-scrapping
+# Project idea
 
 In São Paulo cine Belas Artes, there's a special event that happens monthly, called "Belas Sonoriza", in which they play a movie with live soundtrack.
 
